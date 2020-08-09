@@ -1,7 +1,7 @@
 {
   "name": "express-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Victor Jarvis Express Boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
@@ -11,7 +11,7 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "",
+  "author": "Victor Jarvis",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
