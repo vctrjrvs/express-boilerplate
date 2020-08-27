@@ -2,6 +2,7 @@
   "name": "express-boilerplate",
   "version": "1.0.0",
   "description": "Victor Jarvis Express Boilerplate",
+  "repository": "https://github.com/vctrjrvs/express-boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "mocha --require test/setup.js",
